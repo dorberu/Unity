@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: fe67c62ac4f814770a4020d1ddb1f876
+timeCreated: 1441478545
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - voice_date0101: {fileID: 8300000, guid: 88c1a458c3c974f61a18293718c1c935, type: 3}
+  - voice_date0115: {fileID: 8300000, guid: 937129e0cafef428b8dacdc56a5bcb18, type: 3}
+  - voice_date0203: {fileID: 8300000, guid: 64576b36e59594c49a0a990795ab77b4, type: 3}
+  - voice_date0211: {fileID: 8300000, guid: c46659c4399554ccf87d41cc44b24ee0, type: 3}
+  - voice_date0214: {fileID: 8300000, guid: c8075c770ba3a48c8b7b618c34b2353c, type: 3}
+  - voice_date0303: {fileID: 8300000, guid: 47211b2a35bcf4a66a6b180b6e75cb04, type: 3}
+  - voice_date0314: {fileID: 8300000, guid: 4b1c9dc3e89084d52ae4459886eee31a, type: 3}
+  - voice_date0319: {fileID: 8300000, guid: ce8fb16400a9f41949d5cf2da5964582, type: 3}
+  - voice_date0401: {fileID: 8300000, guid: 645349beb0b074a5ca47de9e78862ab2, type: 3}
+  - voice_date0421: {fileID: 8300000, guid: 300fd04524d484f339272b325cf2261c, type: 3}
+  - voice_date0422: {fileID: 8300000, guid: d2099b8ef27dd4341a377866ed1e643f, type: 3}
+  - voice_date0503: {fileID: 8300000, guid: 9602a4e0e26514a4e87e2a35171daed0, type: 3}
+  - voice_date0504: {fileID: 8300000, guid: 7a536c4068948403a9378d80ec38497c, type: 3}
+  - voice_date0505: {fileID: 8300000, guid: 4773914bee1884fd5bb56d1aa80d6f05, type: 3}
+  - voice_date0602: {fileID: 8300000, guid: 061244abba01c4fd38c42bdaa7a5dbc2, type: 3}
+  - voice_date0707: {fileID: 8300000, guid: 82c2dbaff3c4b4953a940457d03f194c, type: 3}
+  - voice_date0720: {fileID: 8300000, guid: 7c92b00ff054a4fd1b786f9ef8db6a3c, type: 3}
+  - voice_date0813: {fileID: 8300000, guid: 200f6aa17501b414e9f7460618168fe3, type: 3}
+  - voice_date0915: {fileID: 8300000, guid: a173c18dcf6934320bd53ae8a360afab, type: 3}
+  - voice_date0922: {fileID: 8300000, guid: eb2e01d7fef4348bf97a8c9cfa2d4cda, type: 3}
+  - voice_date1008: {fileID: 8300000, guid: 5543d8654cc574850a6e7e1053340a7b, type: 3}
+  - voice_date1010: {fileID: 8300000, guid: 7ca4bbb9890414fa992b46aa20e0ce9d, type: 3}
+  - voice_date1103: {fileID: 8300000, guid: 15f4c1efa3a8c4af38729bc37cd4de01, type: 3}
+  - voice_date1123: {fileID: 8300000, guid: adb5491a0f95d4ae2bc1b2b9235123ef, type: 3}
+  - voice_date1224: {fileID: 8300000, guid: 51791f91b88ea494cbd397f882da7585, type: 3}
+  - voice_date1225: {fileID: 8300000, guid: 2eb33eb78272b4d91ba9d8268e1cc7a0, type: 3}
+  - voice_date1231: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
