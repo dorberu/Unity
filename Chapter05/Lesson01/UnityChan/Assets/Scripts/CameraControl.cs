@@ -21,19 +21,6 @@ public class CameraControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		// Translate
-		if ( Input.GetMouseButton (0) ) {
-			Camera.main.transform.Translate(Input.GetAxisRaw("Mouse X") / 10,
-			                                Input.GetAxisRaw("Mouse Y") / 10,
-			                                0);
-		}
-
-		// Rotate
-		if ( Input.GetMouseButton (1) ) {
-			cameraParent.transform.Rotate(Input.GetAxisRaw("Mouse Y") * 10,
-			                             Input.GetAxisRaw("Mouse X") * 10,
-			                             0);
-		}
 
 		// Zoom
 		Camera.main.fieldOfView += (20 * Input.GetAxis ("Mouse ScrollWheel"));
