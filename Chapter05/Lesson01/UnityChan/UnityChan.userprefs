@@ -1,6 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Lesson07/UnityChan/Assets/Scripts/CameraControl.cs">
+    <Files>
+      <File FileName="../../Lesson07/UnityChan/Assets/Scripts/DispMsg.cs" Line="30" Column="22" />
+      <File FileName="../../Lesson07/UnityChan/Assets/Scripts/Touch.cs" Line="61" Column="42" />
+      <File FileName="../../Lesson07/UnityChan/Assets/Scripts/CameraControl.cs" Line="35" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
